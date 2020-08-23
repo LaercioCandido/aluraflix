@@ -1,14 +1,17 @@
 import React from 'react';
 import './styles.css'
-//import Logo from '../../assets/img/Logo.png'
+import Logo from '../../assets/img/Logo.png';
+import Buttton from '../Button';
 
 function Menu() {
 	return (
 		<nav className="menu">
 			<a href="\">
-				<img className="logo" src="https://fontmeme.com/permalink/200817/bbcf688d4c090278a522dfa0c27defb5.png" alt="Logo do Beyflix" />
+				<img className="logo" src={Logo} alt="Logo do Beyflix" />
 			</a>
-			<a className="buttonLink" href="\">Novo vídeo</a>
+			<Buttton as="a" className="buttonLink" href="/">
+				Novo vídeo
+			</Buttton>
 		</nav>
 	)
 }
