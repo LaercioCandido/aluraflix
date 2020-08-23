@@ -1,101 +1,153 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Live",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+			"titulo": "Love On Top - Live 2011",
+			"url": "https://www.youtube.com/watch?v=RyQe4Yn9V08"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+			"titulo": "Run The World (Girls) Live on Billboard Music Award 2011",
+			"url": "https://www.youtube.com/watch?v=A4r5XvENj8o"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Live performance at the 2017 Grammys (Love Drought + Sandcastles)",
+          "url": "https://www.youtube.com/watch?v=ZhdTAwkDu1Q"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Super Bowl 2013",
+          "url": "https://www.youtube.com/watch?v=XzZxZPab83k"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Crash the Pepsi Super Bowl 50 Halftime Show",
+          "url": "https://www.youtube.com/watch?v=SDPITj1wlkg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Run The World Girls & End Of Time",
+          "url": "https://www.youtube.com/watch?v=1m8LlJIawoc"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Drunk in Love Live at the On the Run Tour",
+          "url": "https://www.youtube.com/watch?v=r8ktGeL6HOM"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
+          "titulo": "Don't Hurt Yourself (Live at OTR ll)",
+          "url": "https://www.youtube.com/watch?v=pUIXlLLVwDw"
+		},
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "live At Good Morning America’s Summer - Concert 2011",
+          "url": "https://www.youtube.com/watch?v=6c9pKEeFimU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Mi Gente Remix Coachella 2018",
+          "url": "https://www.youtube.com/watch?v=fgBwi_o_tv8"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Clipes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Run the World (Girls)",
+          "url": "https://www.youtube.com/watch?v=VBmMU_iwe6U"
+        },
+        {
+          "titulo": "Partition (Explicit Video)",
+          "url": "https://www.youtube.com/watch?v=pZ12_E5R3qc"
+        },
+        {
+          "titulo": "Diva",
+          "url": "https://www.youtube.com/watch?v=rNM5HW13_O8"
+        },
+        {
+          "titulo": "Check On It ft. Bun B, Slim Thug",
+          "url": "https://www.youtube.com/watch?v=Q1dUDzBdnmI"
+        },
+        {
+          "titulo": "Hold Up",
+          "url": "https://www.youtube.com/watch?v=PeonBmeFR8o"
+        },
+        {
+          "titulo": "Move Your Body",
+          "url": "https://www.youtube.com/watch?v=MYq0zAQ3lHY"
+        },
+        {
+          "titulo": "Get Me Bodied (Timbaland Remix) ft. Voltio",
+          "url": "https://www.youtube.com/watch?v=WNCC7tIcChY"
+        },
+        {
+          "titulo": "Ego",
+          "url": "https://www.youtube.com/watch?v=hbnPkK76Ask"
+        },
+        {
+          "titulo": "7/11",
+          "url": "https://www.youtube.com/watch?v=k4YRWT_Aldo"
+        },
+        {
+          "titulo": "Freakum Dress",
+          "url": "https://www.youtube.com/watch?v=ArDXxTsJJoo"
+        }
+      ]
+    },
+    {
+      "titulo": "Featuring",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Megan Thee Stallion - Savage Remix (feat. Beyoncé)",
+          "url": "https://www.youtube.com/watch?v=lEIqjoO0-Bs"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Perfect Duet Live - Beyoncé and Ed Sheeran",
+          "url": "https://www.youtube.com/watch?v=DRdcy5P-3sg"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Beyoncé, Ed Sheeran & Gary Clark Jr. - Tributo a Stevie Wonder",
+          "url": "https://www.youtube.com/watch?v=3j6UO6EQikI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "JAY-Z - Family Feud ft. Beyoncé",
+          "url": "https://www.youtube.com/watch?v=z2kEKZ6jyQQ&feature=emb_logo"
+        },
+        {
+          "titulo": "Crazy In Love ft. JAY Z",
+          "url": "https://www.youtube.com/watch?v=ViwtNLUqkMY"
+        },
+        {
+          "titulo": "Beyoncé, Shatta Wale, Major Lazer – ALREADY",
+          "url": "https://www.youtube.com/watch?v=agCgvFTJeRs"
+        },
+        {
+          "titulo": "Baby Boy (Video) ft. Sean Paul",
+          "url": "https://www.youtube.com/watch?v=8ucz_pm3LX8"
+        },
+        {
+          "titulo": "Flawless (Remix) ft. Nicki Minaj",
+          "url": "https://www.youtube.com/watch?v=56qgO0C82vY"
+        },
+        {
+          "titulo": "Naughty Boy ft. Beyoncé, Arrow Benjamin - Runnin' (Lose It All)",
+          "url": "https://www.youtube.com/watch?v=eJSik6ejkr0"
+        },
+        {
+          "titulo": "Mine (Video) ft. Drake",
+          "url": "https://www.youtube.com/watch?v=IDvu1ehPq0g"
         }
       ]
     },
