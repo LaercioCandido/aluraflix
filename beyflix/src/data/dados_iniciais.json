@@ -152,84 +152,130 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Full Show",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Live 2019 Full Concert",
+          "url": "https://www.youtube.com/watch?v=c4svA0yKFXk"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Live at Chime For Change Concert 2013 - Full Show",
+          "url": "https://www.youtube.com/watch?v=SqdE10H4ZCk"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "The Formation World Tour Multicam",
+          "url": "https://www.youtube.com/watch?v=ZfZKqA3pMV0"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Live at Made In America 2015",
+          "url": "https://www.youtube.com/watch?v=t5Oplz3nh-Y"
+        },
+        {
+          "titulo": "Super Bowl 2013",
+          "url": "https://www.youtube.com/watch?v=XzZxZPab83k"
+        },
+        {
+          "titulo": "On The Run II - Beyoncé and Jay-Z",
+          "url": "https://www.youtube.com/watch?v=GKKmYCzyCGw"
+        },
+        {
+          "titulo": "The BeyChella Show 2 2018",
+          "url": "https://www.youtube.com/watch?v=lC9JUCHzC3s"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Pretitude",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=y3MjxWn5W9M"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Formation",
+          "url": "https://www.youtube.com/watch?v=WDZJPJV__bQ"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Grown Woman",
+          "url": "https://www.youtube.com/watch?v=y3MjxWn5W9M"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Black Parade",
+          "url": "https://www.youtube.com/watch?v=EJT1m1ele00"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Blue Ivy",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Blue ft. Blue Ivy",
+          "url": "https://www.youtube.com/watch?v=gSsMhQv6KZ8"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Black Is King: Blue Ivy Carter’s BEST Moments",
+          "url": "https://www.youtube.com/watch?v=FuS8_W2iCpg"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Blue Ivy Dances To Beyoncé's Song In Candid Video",
+          "url": "https://www.youtube.com/watch?v=Wl1mKEs-NNA"
+        }
+      ]
+    },
+    {
+      "titulo": "Cover",
+      "cor": "darkgray",
+      "link_extra": {
+        "text": "",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "LION KING MASHUP by Todrick Hall",
+          "url": "https://www.youtube.com/watch?v=5QVlbfe_bKg"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Pretty Hurts (Chloe x Halle Cover)",
+          "url": "https://www.youtube.com/watch?v=uPwuduhx0vw"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Love On Top (from the cast of Pitch Perfect)",
+          "url": "https://www.youtube.com/watch?v=sE59kPlblPI"
+        },
+        {
+          "titulo": "Pabllo Vittar - Halo",
+          "url": "https://www.youtube.com/watch?v=2mHhLMr4qLc"
+        },
+        {
+          "titulo": "SORRY [Acoustic] Durand Bernarr",
+          "url": "https://www.youtube.com/watch?v=Avk_fhlMXYk"
+        },
+        {
+          "titulo": "Berywam - Drunk In Love / Reggae",
+          "url": "https://www.youtube.com/watch?v=hj-toAtSfEE"
+        },
+        {
+          "titulo": "LP - Halo",
+          "url": "https://www.youtube.com/watch?v=L6X0PqIWfzQ"
+        },
+        {
+          "titulo": "Flawless - Rude Boy (IZA Cover)",
+          "url": "https://www.youtube.com/watch?v=_fjk5fUsOOs"
+        },
+        {
+          "titulo": "Syesha - Love On Top",
+          "url": "https://www.youtube.com/watch?v=08W4xUK8pYM"
+        },
+        {
+          "titulo": "BEYONCÉ - Superfruit",
+          "url": "https://www.youtube.com/watch?v=SPgoufy8PrE"
         }
       ]
     }
